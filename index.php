@@ -25,7 +25,7 @@
 require("datos.php");
 
 $array = datos_productos();
-var_dump($array);
+// var_dump($array);
      
 
 
